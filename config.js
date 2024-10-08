@@ -72,9 +72,9 @@ global.APIKeys = {
 global.botname = process.env.BOTNAME
 global.premium = 'false'
 global.packname = 'Sticker By'
-global.author = 'OPAKSFIRE'
-global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
-global.igfg = '▢ Follow on Instagram\n/\n'
+global.author = '◣Ꭼᴏη Ꭺᴅɪ֟፝ᴛʏꫝ◥'
+global.menuvid = 'https://cdn.ironman.my.id/i/r6asyo.jpeg'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/aditya.editxz?igsh=OGQ5ZDc2ODk2ZA==/\n'
 global.dygp = 'https://chat.whatsapp.com/Ip4Zfpz3rUx4XiwJONKAzH'
 global.fgsc = 'https://chat.whatsapp.com/Ip4Zfpz3rUx4XiwJONKAzH'
 global.fgyt = 'https://chat.whatsapp.com/Ip4Zfpz3rUx4XiwJONKAzH'
